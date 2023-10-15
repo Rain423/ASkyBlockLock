@@ -1,0 +1,4 @@
+name: ASkyBlockLock
+version: '${project.version}'
+main: cc.sakurarain.askyblocklock.ASkyBlockLock
+depend: [ASkyBlock]
